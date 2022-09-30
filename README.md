@@ -14,8 +14,6 @@ Hi, I'm Win — I'm a second-year student in the regular program at CPE KMUTT. I
 
 🔗 LinkedIn : [LinkedIn](https://www.linkedin.com/in/keetawan-limaroon-7b91391b2/)
 
----
-
 # ✨ Interested
 
 - Technology 💻
@@ -28,8 +26,6 @@ Hi, I'm Win — I'm a second-year student in the regular program at CPE KMUTT. I
 - Design ✒️
     - UX | UI 🖍
     - IOS Design System ⌚️
-
----
 
 # 📚 Education
 
