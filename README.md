@@ -1,7 +1,10 @@
-> I'm a second-year student in the regular program at CPE KMUTT. I'm a student in Petchra Pra Jom Klao Scholarship with academic capability. I was the leader of Comcamp 33. and Now I’m speaker at GDSC KMUTT
-> 
 
-![Untitled](img/Untitled.png)
+
+<img a="Hi!" align="right" height="200" width="200" alt="riflowth's avatar" src="img/Untitled.png"/>
+
+# Keetawan Limaroon (Win) 🤏🏻 
+
+Hi, I'm Win — I'm a second-year student in the regular program at CPE KMUTT. I'm a student in Petchra Pra Jom Klao Scholarship with academic capability. I was the leader of Comcamp 33. and Now I’m speaker at GDSC KMUTT.
 
 # ☎️ Contact information
 
