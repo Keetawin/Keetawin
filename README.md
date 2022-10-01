@@ -8,9 +8,9 @@ Hi, I'm Win — I'm a second-year student in the regular program at CPE KMUTT. I
 
 # ☎️ Contact information
 
-📧 Email address : khitawanlimxrun@gmail.com
+💌 Email address : khitawanlimxrun@gmail.com
 
-🐦 Facebook : [Keetawan Limaroon](https://www.facebook.com/keetawan.limaroon/)
+👨🏻‍💻 Facebook : [Keetawan Limaroon](https://www.facebook.com/keetawan.limaroon/)
 
 🔗 LinkedIn : [LinkedIn](https://www.linkedin.com/in/keetawan-limaroon-7b91391b2/)
 
