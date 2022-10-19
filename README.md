@@ -1,6 +1,6 @@
 
 
-<img a="Hi!" align="right" height="200" width="200" alt="riflowth's avatar" src="img/Untitled.png"/>
+<img a="Hi!" align="right" height="200" width="200" alt="keetawin" src="img/Untitled.png"/>
 
 # Keetawan Limaroon (Win) 🤏🏻 
 
