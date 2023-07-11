@@ -18,14 +18,13 @@ Hi, I'm Win — I'm a second-year student in the regular program at CPE KMUTT. I
 
 - ### Technology 💻
     - Web Development 📱
-    - Machine Learning (just started) 📊
+    - Machine Learning 📊
 - ### Business 💼
     - Management 🗂
     - Financial 💸
     - Stock 📈
 - ### Design ✒️
     - UX | UI 🖍
-    - IOS Design System ⌚️
 
 # 📚 Education
 
