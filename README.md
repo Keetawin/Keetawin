@@ -4,7 +4,7 @@
 
 # Keetawan Limaroon (Win) 🤏🏻 
 
-Hi, I'm Win — I'm a second-year student in the regular program at CPE KMUTT. I'm a student in Petchra Pra Jom Klao Scholarship with academic capability. I was the leader of Comcamp 33. and Now I’m speaker at GDSC KMUTT.
+Hi, I'm Win — I'm a third-year student in the regular program at CPE KMUTT. I'm a student in Petchra Pra Jom Klao Scholarship with academic capability. I was the leader of Comcamp 33.
 
 # ☎️ Contact information
 
