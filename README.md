@@ -4,7 +4,7 @@
 
 # Keetawan Limaroon (Win) 🤏🏻 
 
-Hi, I'm Win — I'm a third-year student in the regular program at CPE KMUTT. I'm a student in Petchra Pra Jom Klao Scholarship with academic capability. Passionate about the field, my focus is particularly directed towards the captivating realms of AI/ML.
+Hi, I'm Win — I'm a senior student in the regular program at CPE KMUTT. I'm a student in Petchra Pra Jom Klao Scholarship with academic capability. Passionate about the field, my focus is particularly directed towards the captivating realms of AI/ML.
 
 # ☎️ Contact information
 
