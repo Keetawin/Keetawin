@@ -4,7 +4,7 @@
 
 # Keetawan Limaroon (Win) 🤏🏻 
 
-Hi, I'm Win — I'm a senior student in the regular program at CPE KMUTT. I'm a student in Petchra Pra Jom Klao Scholarship with academic capability. Passionate about the field, my focus is particularly directed towards the captivating realms of AI/ML.
+Hi, I'm Win — a recent CPE KMUTT graduate passionate about building a career in Artificial Intelligence. I focus on roles as an AI Engineer and AI Researcher. As a specialist in Computer Vision with a strong foundation in NLP, my work is twofold: applying AI engineering to innovate in the agriculture sector and advancing the field of Medical AI through research.
 
 # ☎️ Contact information
 
@@ -36,13 +36,5 @@ Hi, I'm Win — I'm a senior student in the regular program at CPE KMUTT. I'm a 
   <img height="30" src="https://img.shields.io/badge/c-00599C?style=flat-square&logo=c&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/google--looker--studio-03A9F4?style=flat-square&logo=looker&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 </div>
-
-# 🚀 Github stat
-<div style="display: flex;">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=keetawin" alt="Keetawin's GitHub stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keetawin&layout=compact" alt="Keetawin's Language stats">
-</div>
-
